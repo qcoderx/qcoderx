@@ -1,4 +1,6 @@
-<h4 align="center">Hi , I am Quadri Lasisi (qcoderx). A fullstack developer, with over 6 years of experience.<br>Skilled in HTML, CSS, Javascript, Python, FastAPI, React.js, Next.js, Three.js, Typescript, Django, AWS and the  most recent add on, React Native, I make high impact applications, and I am currently a data science student, in the University of Lagos</h4>
+<h4 align="center">Hi , I am Quadri Lasisi (qcoderx). A fullstack developer, with over 6 years of experience.<br>Skilled in HTML, CSS, Javascript, Python, FastAPI, React.js, Next.js, Three.js, Typescript, Django, AWS and the  most recent add on, React Native, I make high impact applications, and I am currently a data science student, in the University of Lagos
+                                           My PORTFOLIO: https://quadricodes.tech
+</h4>
 
 ###
 
