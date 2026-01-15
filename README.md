@@ -1,10 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Lasisi Quadri 👋</h1>
-  <h3 align="center">Full Stack Developer | Data Scientist | Drone Engineer</h3>
-  
-  <a href="https://quadricodes.tech">
-    <img src="https://img.shields.io/badge/Portfolio-quadricodes.tech-ff0055?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <h1>Hi, I'm Lasisi Quadri 👋</h1>
+  <h3>Full Stack Developer | Data Scientist | Drone Engineer</h3>
+
+  <h2>
+    <a href="https://quadricodes.tech">
+      🚀 VISIT MY PORTFOLIO: quadricodes.tech
+    </a>
+  </h2>
 </div>
 
 <br/>
@@ -20,28 +22,28 @@ I am a purpose-driven developer with over **6 years of experience** building hig
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Clickable Icons)
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python"/></a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript"/></a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript"/></a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" alt="csharp"/></a>
 
-**Frontend & 3D**<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<br/>
+<a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react"/></a>
+<a href="https://nextjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="nextjs"/></a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="50" width="50" alt="threejs"/></a>
+<a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50" alt="tailwind"/></a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5"/></a>
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3"/></a>
 
-**Backend & Cloud**<br/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<br/>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" width="50" alt="django"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="50" alt="fastapi"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" width="50" alt="aws"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="postgresql"/></a>
 
 </div>
 
@@ -65,16 +67,10 @@ I am a purpose-driven developer with over **6 years of experience** building hig
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/quadri-lasisi-a720b9359" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/platinum_on_top" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/daplatinumcoder" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:qlasisi15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <h3>
+    <a href="https://www.linkedin.com/in/quadri-lasisi-a720b9359">LinkedIn 👔</a> &nbsp;|&nbsp; 
+    <a href="https://twitter.com/platinum_on_top">Twitter 🐦</a> &nbsp;|&nbsp; 
+    <a href="https://www.instagram.com/daplatinumcoder">Instagram 📸</a> &nbsp;|&nbsp; 
+    <a href="mailto:qlasisi15@gmail.com">Email 📧</a>
+  </h3>
 </div>
