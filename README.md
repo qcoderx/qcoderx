@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a purpose-driven developer with over **6 years of experience** building high-impact applications. Currently comprising my technical expertise with Data Science studies at the **University of Lagos (UNILAG)**.
+I am a purpose-driven developer with over **6 years of experience** building high-impact applications. Currently combining my technical expertise with Data Science studies at the **University of Lagos (UNILAG)**.
 
 - 🔭 I’m currently working on **AI-powered scalable business applications**
 - 🌱 I’m currently learning **Advanced Machine Learning & Computer Vision**
